@@ -17,4 +17,6 @@ The lambda function code handles starting Ec2 instances using Python with the Bo
 - REGION
 - RESOURCE_ID
 
+Python versions 3.7 and up are compatible.
+
 [Other environment variables used in other examples include: (REGION, TAG_KEY, TAG_VALUE)](https://github.com/Difeozo/AWS-Lambda-Automation/)
